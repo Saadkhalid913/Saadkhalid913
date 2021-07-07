@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning, algorithms, and web development
 - 🌱 I’m currently learning full stack web development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🧑‍💻 personal website: https://saadkhalid.ca
 
 <!---
 Saadkhalid913/Saadkhalid913 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
